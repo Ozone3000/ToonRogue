@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"/Users/olinolmstead/Unreal/ToonTanks/Saved": true,
+		"/Users/olinolmstead/Unreal/ToonTanks/Content": true,
+		"/Users/olinolmstead/Unreal/ToonTanks/DerivedDataCache": true,
+		"/Users/olinolmstead/Unreal/ToonTanks/.vscode": true,
+		"/Users/olinolmstead/Unreal/ToonTanks/Intermediate": true
+	}
+}
